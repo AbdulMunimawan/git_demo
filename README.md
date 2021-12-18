@@ -6,6 +6,8 @@ Some description!
 
 Watch tutorial on YouTube
 
-This change is just made
+## Local Development
+
+1. Open index.html in your browser.
 
 
